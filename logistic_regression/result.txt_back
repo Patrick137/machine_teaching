@@ -1,0 +1,39 @@
+
+--------Theta:[0.200000.0.300000], N = 10
+True error:6.931472
+unpurified error 11.460107
+purified error 7.001025
+svm error 7.010311
+unpurified VS purified & svm wins 21
+purified VS unpurified wins 74
+svm VS unpurified wins 75
+svm VS purified wins 33
+purified VS unpurified sum error 4.459082
+svm VS unpurified sum error 4.449796
+SVM VS purified sum error -0.009286
+
+--------Theta:[0.200000.0.300000], N = 1000
+True error:6.931472
+unpurified error 6.937742
+purified error 6.931834
+svm error 6.931482
+unpurified VS purified & svm wins 2
+purified VS unpurified wins 82
+svm VS unpurified wins 98
+svm VS purified wins 93
+purified VS unpurified sum error 0.005907
+svm VS unpurified sum error 0.006260
+SVM VS purified sum error 0.000353
+
+--------Theta:[2.000000.3.000000], N = 10
+True error:0.693147
+unpurified error 1.295178
+purified error 1.208010
+svm error 1.252972
+unpurified VS purified & svm wins 13
+purified VS unpurified wins 20
+svm VS unpurified wins 49
+svm VS purified wins 45
+purified VS unpurified sum error 0.087168
+svm VS unpurified sum error 0.042206
+SVM VS purified sum error -0.044962

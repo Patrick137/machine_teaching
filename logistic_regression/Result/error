@@ -1,0 +1,48 @@
+NUM_LOOP = 100;
+theta = [0.2,0.3] 0.2*x + b
+
+m = 10 
+	True error:8.431472
+	unpurified VS purified & svm wins 16
+	purified VS unpurified wins 79
+	svm VS unpurified wins 80
+	svm VS purified wins 35
+	purified VS unpurified sum error 3.999045
+	svm VS unpurified sum error 3.993697
+	svm VS purified sum error -0.005348
+
+m = 1000
+
+	True error:8.431472
+	unpurified VS purified & svm wins 2
+	purified VS unpurified wins 81
+	svm VS unpurified wins 98
+	svm VS purified wins 95
+	purified VS unpurified sum error 0.005861
+	svm VS unpurified sum error 0.006228
+	svm VS purified sum error 0.000367
+
+theta = [2,3]
+
+m = 10
+
+	True error:2.193147
+	unpurified VS purified & svm wins 14
+	purified VS unpurified wins 17
+	svm VS unpurified wins 42
+	svm VS purified wins 37
+	purified VS unpurified sum error 0.036054
+	svm VS unpurified sum error 0.006092
+	svm VS purified sum error -0.029962
+
+m = 1000
+
+	True error:2.193147
+	unpurified VS purified & svm wins 10
+	purified VS unpurified wins 48
+	svm VS unpurified wins 89
+	svm VS purified wins 97
+	purified VS unpurified sum error 0.001097
+	svm VS unpurified sum error 0.004883
+	svm VS purified sum error 0.003786
+
